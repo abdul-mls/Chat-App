@@ -1,0 +1,25 @@
+functionalities to add:
+Page 1 - Login:
+-login
+-register
+-forgot password
+
+Page2 - ListView:
+-profile
+-logout
+-create room
+-join room
+-list of all joined rooms with details (room creator, total msgs) + view room
+
+Page 3 - Messages:
+-let creator delete room
+-leave chat button(once left user can't see previous msgs)
+-list of users in room
+-messages
+-send msg from
+
+-Page 4 - Profile  :
+-details of user
+
+extra:
+user cant go to login/register ext if already logged
